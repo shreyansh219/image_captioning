@@ -4,7 +4,7 @@
 
 Author: Shreyansh Daftry
 
-Advanced Multimodal Machine Learning [11-777], Srping 2016, Carnegie Mellon University
+Advanced Multimodal Machine Learning [11-777], Spring 2016, Carnegie Mellon University
 
 ## Original Code
 
