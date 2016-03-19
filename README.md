@@ -6,7 +6,7 @@ Author: Shreyansh Daftry
 
 Advanced Multimodal Machine Learning [11-777], Srping 2016, Carnegie Mellon University
 
-## Original Code:
+## Original Code
 
 Source code for [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
 runnable on GPU and CPU.
